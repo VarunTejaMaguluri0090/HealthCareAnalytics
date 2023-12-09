@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # Health-Care-Analytics
 
-=======
 ## Introduction
 
 The main goal of this project is to develop a data-driven solution for predicting heart problems in individuals with the aim of improving the accuracy and efficiency of health prediction. Existing healthcare systems rely heavily on the expertise of healthcare professionals, which can be limited by available information and extensive experience. To overcome these limitations,the project will use data mining techniques and algorithms.<br />
