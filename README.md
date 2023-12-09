@@ -17,20 +17,20 @@
 
 ## Deployment, Operations, Maintenance
 
-Frontend Deployment Platform (Netlify):
+<p align="justify">Frontend Deployment Platform (Netlify):
 Deployment: Use Netlify for automatic deployment of React and Node.js applications via Git integration.
 Operations: Leverage Netlify's scalability and monitoring tools for optimal front- end performance.
-Maintenance: Regularly update the front-end codebase, ensuring compatibility and efficiency.
+Maintenance: Regularly update the front-end codebase, ensuring compatibility and efficiency.</p>
 
-Backend Deployment Platform (Replit):
+<p align="justify">Backend Deployment Platform (Replit):
 Deployment: Host Python and Flask backend on Replit, facilitating deployment via project sharing or exporting as a web service.
 Operations: Monitor server logs, explore resource scaling options, and maintain code updates for smooth backend operation.
-Maintenance: Update backend code regularly, test changes, and use version control for code management.
+Maintenance: Update backend code regularly, test changes, and use version control for code management.</p>
 
-Database (AWS RDS and SQL Workbench):
+<p align="justify">Database (AWS RDS and SQL Workbench):
 Deployment: Set up the database on AWS RDS, connect it to the Flask backend, and use SQL Workbench for development.
 Operations: Monitor AWS RDS metrics, schedule backups, and ensure security settings are up-to-date.
-Maintenance: Execute database schema updates through SQL Workbench, maintain security, and document deployment processes.
+Maintenance: Execute database schema updates through SQL Workbench, maintain security, and document deployment processes.</p>
 
 ## Project Live Deployment link : 
 https://healthcareanalytics.netlify.app/
