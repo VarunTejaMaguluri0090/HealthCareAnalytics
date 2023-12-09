@@ -15,7 +15,7 @@ const Dochome = () => {
     script.async = true;
 
     script.onload = () => {
-      // The CDC widget script has loaded, you can now use it.
+      // The widget script has loaded, you can now use it.
     };
 
     document.body.appendChild(script);
